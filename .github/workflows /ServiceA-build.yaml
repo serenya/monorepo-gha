@@ -3,8 +3,8 @@ on:
     # Sequence of patterns matched against refs/heads
     branches:    
       - main
-    paths:
-      - 'ServiceA/**'
+    # paths:
+    #   - 'ServiceA/**'
 
 
 jobs:
