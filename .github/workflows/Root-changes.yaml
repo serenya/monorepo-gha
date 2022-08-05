@@ -1,4 +1,4 @@
-name: ServiceA build
+name: Root changes
 on:
   pull_request:
     paths-ignore:
