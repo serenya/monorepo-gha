@@ -1,4 +1,4 @@
-name: ServiceA
+name: ServiceA analyze
 
 on:
   pull_request:

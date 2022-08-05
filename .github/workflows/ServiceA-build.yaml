@@ -1,4 +1,4 @@
-name: ServiceA
+name: ServiceA build
 
 on:
   pull_request:
