@@ -1,4 +1,4 @@
-name: ci
+name: Skip changes
 on:
   pull_request:
     paths-ignore:
