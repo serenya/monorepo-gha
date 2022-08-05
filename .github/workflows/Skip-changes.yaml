@@ -1,4 +1,4 @@
-name: Root changes
+name: Skip changes
 on:
   pull_request:
     paths-ignore:
