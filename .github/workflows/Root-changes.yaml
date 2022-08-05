@@ -1,4 +1,4 @@
-name: ci
+name: ServiceA build
 on:
   pull_request:
     paths-ignore:
