@@ -1,4 +1,4 @@
-name: ServiceA build
+name: ServiceA analyze
 
 on:
   pull_request:
@@ -9,7 +9,7 @@ on:
       - 'ServiceA/**'
 
 jobs:
-  build:
+  analyze:
 
     runs-on: ubuntu-latest
 
